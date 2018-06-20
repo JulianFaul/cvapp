@@ -1,0 +1,29 @@
+.ios .page{
+	background: #FFFFFF;
+}
+
+.homepage .mainpage-list-items{
+    margin: 18px 0px !important;
+}
+ .list ul:before,.list .item-inner:after, .list ul:after{
+    background: none !important;
+    background-color: transparent !important;
+}
+
+.homepage .mainpage-list-items ul li  {
+    /* color: #ffffff !important; */
+    margin: 8px 16px 16px 16px !important;
+}
+
+.homepage .mainpage-list-items .item-inner {
+    height: 94px;
+}
+
+.item-title{
+    width: 100%;
+    text-align: center;
+}
+
+.links-list a, .list .item-link .item-inner, .media-list .item-link .item-title-row, li.media-item .item-link .item-title-row{
+    background-image: none !important;
+}
